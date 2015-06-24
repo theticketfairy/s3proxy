@@ -1,0 +1,6 @@
+FROM node:0.12-onbuild
+
+ENV S3PROXY_PORT 80
+
+EXPOSE 80
+
